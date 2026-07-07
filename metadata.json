@@ -1,0 +1,6 @@
+{
+  "name": "Reel-Slate",
+  "description": "Log watched films, analyze personal movie stats, and take an engaging AI-powered quiz to generate highly personalized movie recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
